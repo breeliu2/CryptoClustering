@@ -73,7 +73,7 @@ Set the x-axis as "price_change_percentage_24h" and the y-axis as "price_change_
 Color the graph points based on the labels obtained from K-means.
 Include the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 
-Answer the following question:
+Answer the following question in your Notebook:
 What is the impact of using fewer features to cluster the data using K-Means?
 
 
